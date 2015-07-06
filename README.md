@@ -1,9 +1,9 @@
 # The-Summer-The-Rattlesnakes-Came-java
 
-This program developed as part of the Poetry for Excitable [Mobile] Media, using the NextText architecture for interactive and dynamic texts. 
-Project lead: Jason Edward Lewis. 
-Technical Lead: Bruno Nadeau. 
-See www.poemm.net and www.nexttext.net for more information.
+This program developed as part of the Poetry for Excitable [Mobile] Media, using the NextText architecture for interactive and dynamic texts. <br/>
+Project lead: Jason Edward Lewis. <br/>
+Technical Lead: Bruno Nadeau.  <br/>
+See www.poemm.net and www.nexttext.net for more information. <br/>
 To download the iOS app, visit: https://itunes.apple.com/app/rattlesnakes/id684327074?ls=1&mt=8
 
 Copyright (C) <2015>  <Jason Lewis>
